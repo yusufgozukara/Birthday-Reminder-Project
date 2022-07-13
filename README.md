@@ -1,3 +1,5 @@
-## Idea
+This is my simple React Project "Birthday Reminder". I want to improve my React skills in these projects. 
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+For look [Click Here]()
+
+![](intro.jpg)
